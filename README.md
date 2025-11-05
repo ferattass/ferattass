@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I'm Ferat Taş – a Computer Engineering student and junior software developer passionate about building scalable web and AI-powered applications.<br><br>I'm the founder of **AdBridger**, an AI-based marketing collaboration platform, and co-creator of **AllGötür**, a social impact food donation app that became a bootcamp finalist. I’ve also interned at **2042 Tech** and participated in top-tier national bootcamps like **OUA**, **YetGen**, and the **Aspire Leaders Program**, gaining practical experience with technologies like Python, Java, Flutter, and backend systems.<br><br>Beyond the code, I believe in technology’s power to solve real-world problems, and I value clean design, collaboration, and lifelong learning. Whether it's building innovative platforms or participating in community-driven tech initiatives, I'm always striving to create meaningful digital impact.<br><br>Let’s connect and build something great together 🚀<br>
+Hi, I'm Ferat Taş – a Computer Engineering student and junior software developer passionate about building scalable web and AI-powered applications.<br><br>
+I'm the founder of AdBridger, an AI-based marketing collaboration platform, and co-creator of AllGötür, a social impact food donation app that became a bootcamp finalist. I’ve participated in top-tier national bootcamps like OUA, YetGen, and the Aspire Leaders Program, gaining practical experience with technologies like Python, Java, Flutter, and backend systems.<br><br>
+Beyond the code, I believe in technology’s power to solve real-world problems, and I value clean design, collaboration, and lifelong learning. Whether it's building innovative platforms or participating in community-driven tech initiatives, I'm always striving to create meaningful digital impact.<br><br>
+Let’s connect and build something great together 🚀<br>
 
 
 ## 🌐 Socials:
