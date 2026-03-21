@@ -1,22 +1,88 @@
-# 💫 About Me:
-Backend-focused developer experienced in multi-tenant architectures, RBAC systems, and scalable RESTful API design. Worked on secure data access, database modeling, and production-ready service architectures. Interested in AI-integrated systems and data-driven applications..<br><br>
-Let’s connect and build something great together 🚀<br>
+# 👋 Hi, I'm Ferat Taş
 
+Backend-focused software developer experienced in building scalable systems, secure data architectures, and AI-supported applications.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teslaa02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferattass) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ferattas2763) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Teslaa01) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ferattass555) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ferattass&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ferattass&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferattass&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ferattass&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+I specialize in multi-tenant SaaS architectures, role-based access control (RBAC), and RESTful API design.  
+My work focuses on designing production-ready backend services with strong emphasis on security, modularity, and data integrity.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ferattass&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Do
+
+- ⚙️ Design and implement multi-tenant system architectures  
+- 🔐 Develop secure authorization systems (RBAC)  
+- 🧩 Build scalable RESTful backend services  
+- 🗄️ Design relational database schemas and data models  
+- 📊 Develop deterministic scoring systems and AI-supported evaluation layers  
+- 🏗️ Apply layered and modular architecture principles  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+**Frameworks & Tools**
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/microsoftsqlserver-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firestore](https://img.shields.io/badge/firestore-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+## 📌 Featured Work
+
+### 🧠 AI-Powered Psychometric Evaluation Platform
+- Built a deterministic scoring engine for reproducible assessment results  
+- Designed a 3-layer architecture: Scoring Engine, Context Layer, AI Interpretation Layer  
+- Developed decision support and risk analysis modules  
+
+### 🏥 Multi-Tenant Clinic Management System (Nodus)
+- Designed organization-based data isolation architecture  
+- Implemented RBAC authorization system  
+- Developed REST APIs for scheduling, assignment, and workflow management  
+- Built secure data access and audit logging mechanisms  
+
+### 📱 AllGötür – Food Donation Platform
+- Developed a mobile platform connecting restaurants with people in need  
+- Designed authentication, donation, reservation, and delivery flows  
+- Integrated Firebase and AI-based data processing  
+- Selected as a finalist project  
+
+### 📊 AdBridger (MVP)
+- Designed relational database schema for influencer–brand matching  
+- Planned backend flows for campaign and lifecycle management  
+- Developed bidirectional scoring logic for platform trust model  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ferattass)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ferattas2763)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Teslaa01)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ferattass&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ferattass&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferattass&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## ⚡ Philosophy
+
+> "Build systems that are scalable, secure, and meaningful — not just functional."
