@@ -87,12 +87,7 @@ A 3-layer assessment engine producing transparent, reproducible results.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ferattass&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=ferattass&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferattass&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=ferattass&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
